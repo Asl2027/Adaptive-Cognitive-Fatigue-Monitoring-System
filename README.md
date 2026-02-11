@@ -108,7 +108,6 @@ The system consists of four main modules:
 (Add images in an /images folder and reference them like below)
 
 ![App Dashboard](images/dashboard.png)
-![Wearable CAD Model](images/wearable_model.png)
 ![System Architecture](images/architecture.png)
 
 
